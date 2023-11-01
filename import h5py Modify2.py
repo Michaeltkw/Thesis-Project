@@ -34,7 +34,7 @@ def find_knn(point_cloud, k_neighbors):
 if __name__ == "__main__":
     # Specify the dataset file and index
     dataset_file = 'M:/Data/modelnet40_ply_hdf5_2048/ply_data_train0.h5'
-    index = 390
+    index = 391
     k_neighbors = 4  # Number of nearest neighbors to find
 
     # Load the original point cloud
